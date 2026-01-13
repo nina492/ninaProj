@@ -1,11 +1,70 @@
 ﻿body {
     direction: rtl;
-    color: palevioletred;
+    color: black;
  
    
 }
-
+h1 {
+    text-align: center;
+}
 div {
     text-align: center;
     
+}
+table, tr , td{
+    border:1px dashed black;
+}
+table{
+    margin:0px auto;
+    direction:rtl;
+    border-spacing:20px;
+    border-collapse:collapse;
+}
+td{
+    width:70px;
+    height:15px;
+    padding:15px;
+}
+.math{
+    background-color:forestgreen;
+}
+.his{
+    background-color:dodgerblue;
+}
+.eng {
+    background-color:pink;
+}
+.cin {
+    background-color:yellow;
+}
+.las {
+    background-color:orchid;
+}
+
+.com {
+    background-color: aquamarine
+}
+.bio {
+    background-color:lightcoral
+}
+.tan {
+    background-color:royalblue
+}
+.lit {
+    background-color:mediumpurple
+}
+.lkj {
+    background-color:khaki
+
+}
+.gym {
+
+    background-color:thistle
+
+}
+.art {
+    background-color:mistyrose
+}
+.nis {
+    background-color:teal
 }
